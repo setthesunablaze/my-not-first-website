@@ -1,0 +1,11 @@
+img{
+    width: 500px;
+}
+body { 
+text-align: center;
+font-family: 'Times New Roman';
+background-image: url("yummyimage.png");
+background-size: 1920px 1080px;
+color:rgb(131, 88, 60)
+}
+
